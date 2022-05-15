@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jessedavidd
-- 👀 I’m interested in web development and machine learning.
-- 🌱 Currently learning Typescript/Javascript...
+- 👋 I’m @jessedavidd
+- 👀 Interested in web development and machine learning.
+- 🌱 Currently learning front-end development.
 
 <!---
 jessedavidd/jessedavidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
